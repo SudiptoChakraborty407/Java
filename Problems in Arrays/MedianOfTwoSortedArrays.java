@@ -1,6 +1,6 @@
 import java.util.*;
 
-class MedianOfTwoArrays {
+class MedianOfTwoSortedArrays {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Arr1");
