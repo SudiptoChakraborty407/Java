@@ -1,1 +1,1 @@
-This is my Java Repository, here is all the code I wrote while learning Java
+This is my Java Repository, here is all the non-leetcode code I wrote while learning Java
